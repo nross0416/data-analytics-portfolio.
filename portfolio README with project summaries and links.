@@ -1,0 +1,34 @@
+# 📊 Nylah Ross — Data Analytics Portfolio
+
+This portfolio highlights projects using **Python, SQL, Tableau, and Excel**.  
+Each project uses the **Google XYZ formula**: *Accomplished [X] as measured by [Y], by doing [Z]*.
+
+## 🔗 Quick Links
+- LinkedIn: https://www.linkedin.com/in/nylah-ross
+- GitHub: https://github.com/nross0416
+- Tableau Public: https://public.tableau.com/app/profile/nross0416   <!-- update if your Tableau username is different -->
+
+---
+
+## 🧩 Projects
+
+### 1) Credit Risk Analysis (Python, Pandas, Matplotlib)
+**Summary:** Improved loan risk flagging precision by identifying top 3 borrower risk drivers across 100K+ records, by cleaning data, engineering features, and creating visualizations.  
+- Repo: https://github.com/nross0416/credit-risk-analysis-python
+
+### 2) Movie Trends SQL Analysis
+**Summary:** Accelerated insights by 30% as measured by faster KPI queries, by writing joins/aggregations/CTEs across 50K+ records to reveal popularity and release timing trends.  
+- Repo: https://github.com/nross0416/movie-trends-sql-analysis
+
+### 3) Superstore Sales Dashboard (Tableau)
+**Summary:** Increased visibility of sales KPIs by 25% by designing an interactive Tableau dashboard with drilldowns and standardized data prep.  
+- Repo: https://github.com/nross0416/superstore-sales-dashboard  
+- Dashboard: https://public.tableau.com/app/profile/nross0416   <!-- replace with direct dashboard link -->
+
+---
+
+## 🛠️ Skills
+SQL • Python (Pandas, NumPy, Matplotlib) • Tableau • Excel • Data Cleaning & Validation • EDA • KPI Reporting • Visualization
+
+## 📩 Contact
+Fort Washington, MD • nylah_ross@msn.com
